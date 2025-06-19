@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">Hi there 👋 I'm Teo!</h1>
-<p align="center">🚀 Frontend Explorer | Future Full-Stack Developer</p>
+<p align="center">🚀 Frontend Explorer | Aspiring Full-Stack Developer</p>
 
 ---
 
 ### 🌱 About Me
 
-- 🎓 Currently learning and solidifying my skills in **HTML** and **CSS**  
-- 🌐 Preparing to expand into **JavaScript** and **React** as next steps  
-- 💡 Passionate about creating clean, user-friendly, and visually appealing web interfaces  
-- 🎯 Committed to continuous learning and growth towards becoming a full-stack developer
+- 🎓 Currently strengthening my skills in **HTML** and **CSS**  
+- 🌐 Planning to advance into **JavaScript** and **React** as my next milestones  
+- 💡 Dedicated to crafting clean, user-friendly, and visually appealing web interfaces  
+- 🎯 Committed to continuous learning and personal growth toward becoming a full-stack developer
 
 ---
 
@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-#### Next Goals
+#### Next Steps
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -41,10 +41,10 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/teomanacarer" target="_blank">
+  <a href="https://linkedin.com/in/teomanacarer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:teomanacarer@gmail.com" target="_blank">
+  <a href="mailto:teomanacarer@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

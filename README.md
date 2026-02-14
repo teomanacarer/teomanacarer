@@ -3,37 +3,35 @@
 </p>
 
 <h1 align="center">Hi there 👋 I'm Teo!</h1>
-<p align="center">🚀 Frontend Explorer | Aspiring Full-Stack Developer</p>
+<p align="center">🛡️ Cyber Security Student-to-be | Aspiring SOC Analyst</p>
 
 ---
 
-### 🌱 About Me
+### 🌱 Road to Cyber Security
 
-- 🎓 Currently strengthening my skills in **HTML** and **CSS**  
-- 🌐 Planning to advance into **JavaScript** and **React** as my next milestones  
-- 💡 Dedicated to crafting clean, user-friendly, and visually appealing web interfaces  
-- 🎯 Committed to continuous learning and personal growth toward becoming a full-stack developer
-
----
-
-### 💻 Tech Stack
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-
-#### Next Steps
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 📚 Currently preparing for **Cyber Security Community College** to build a solid foundation.
+- 🛠️ Started exploring the fundamentals of **Networking (TCP/IP)** and **Linux**.
+- 🔍 Learning the basics of **Blue Team** operations and defensive security.
+- 🎯 Goal: To transition from a beginner to a specialized **SOC Analyst**.
 
 ---
 
-### 📈 GitHub Stats
+### 🛡️ My Learning Journey (Current Focus)
+
+#### 📖 Fundamentals
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-blue?style=for-the-badge&logo=cisco)
+![Linux](https://img.shields.io/badge/Linux-Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🕹️ Platforms I'm Exploring
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Starting%20Out-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Google Cyber Security](https://img.shields.io/badge/Google-Cyber%20Security%20Course-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 📈 Learning Progress
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teomanacarer&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teomanacarer&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -41,10 +39,10 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/teomanacarer" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/teomanacarer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:teomanacarer@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:teomanacarer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
